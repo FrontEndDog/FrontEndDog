@@ -1,5 +1,8 @@
-### Hi there 👋
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FrontEndDog&show_icons=true&count_private=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+### Hi everyone 👋 Welcome to my GitHub.
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FrontEndDog&show_icons=true&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrontEndDog&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **FrontEndDog/FrontEndDog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
