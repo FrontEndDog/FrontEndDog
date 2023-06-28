@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=FrontEndDog&show_icons=true&count_private=true&theme=gruvbox_light))](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **FrontEndDog/FrontEndDog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
