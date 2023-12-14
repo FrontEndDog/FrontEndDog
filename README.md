@@ -1,4 +1,5 @@
-### Hi everyone 👋 Welcome to my GitHub.
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4FC08D&center=true&vCenter=true&random=false&width=500&lines=Hi+everyone+%F0%9F%91%8B+Welcome+to+my+GitHub" alt="Typing SVG" /></h1>
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FrontEndDog&show_icons=true&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrontEndDog&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
