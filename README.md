@@ -4,7 +4,7 @@
 
 ### Tech & Tools Preference
 
-<div>
+<p style="display:flex;flex-wrap:wrap;gap:8px;">
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=FFFFFF">
@@ -26,7 +26,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/macOS-000000?logo=macOS&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/Google Chrome-4285F4?logo=Google Chrome&logoColor=FFFFFF">
-</div>
+</p>
 
 ![img](./assets/header.png)
 
