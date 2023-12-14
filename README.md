@@ -2,7 +2,7 @@
 
 ![img](./profile-3d-contrib/profile-green-animate.svg)
 
-## Tech & Tools Preference
+## 🛠️ Tech & Tools Preference
 
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=FFFFFF">
