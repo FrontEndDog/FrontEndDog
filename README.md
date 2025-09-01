@@ -12,7 +12,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=FFFFFF">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=Tailwind CSS&logoColor=FFFFFF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=Tailwind CSS&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/ESlint-4B32C3?logo=ESlint&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/Prettier-F7B93E?logo=Prettier&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/stylelint-263238?logo=stylelint&logoColor=FFFFFF">
@@ -22,10 +22,10 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=Nuxt.js&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/Shopify-7AB55C?logo=Shopify&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=FFFFFF">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=FFFFFF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio Code-007ACC?logo=Visual Studio Code&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/macOS-000000?logo=macOS&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=FFFFFF">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Google Chrome-4285F4?logo=Google Chrome&logoColor=FFFFFF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Google_Chrome-4285F4?logo=Google Chrome&logoColor=FFFFFF">
 </p>
 
 ![img](./assets/header.png)
