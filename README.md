@@ -20,6 +20,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=Nuxt.js&logoColor=FFFFFF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Electron-A2ECFB?logo=electron&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/Shopify-7AB55C?logo=Shopify&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio Code-007ACC?logo=Visual Studio Code&logoColor=FFFFFF">
