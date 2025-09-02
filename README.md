@@ -31,8 +31,8 @@
 
 ![img](./assets/header.png)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FrontEndDog&show_icons=true&count_private=true&theme=vue&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FrontEndDog&show_icons=true&count_private=true&theme=vue&disable_animations=true&exclude_repo=FrontEndDog)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrontEndDog&theme=vue&layout=compact&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrontEndDog&theme=vue&layout=compact&disable_animations=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FrontEndDog&theme=vue&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FrontEndDog&theme=vue&disable_animations=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
