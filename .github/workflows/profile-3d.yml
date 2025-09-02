@@ -10,11 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@0.9.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
+      - name: update Svg
+        run: |
+          sed -i -E 's#<g transform="translate\(40, 520\)"><g transform="translate\(273, 0\)">.*</g></g>##g' profile-3d-contrib/profile-green-animate.svg
+
       - name: Commit & Push
         run: |
           git config user.name github-actions[bot]
