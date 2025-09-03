@@ -23,7 +23,7 @@
   <img alt="Electron" src="https://img.shields.io/badge/Electron-A2ECFB?logo=electron&logoColor=FFFFFF">
   <img alt="Shopify" src="https://img.shields.io/badge/Shopify-7AB55C?logo=Shopify&logoColor=FFFFFF">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=FFFFFF">
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio Code-007ACC?logo=Visual_Studio Code&logoColor=FFFFFF">
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=Visual_Studio_Code&logoColor=FFFFFF">
   <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?logo=macOS&logoColor=FFFFFF">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=FFFFFF">
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google_Chrome-4285F4?logo=Google_Chrome&logoColor=FFFFFF">
